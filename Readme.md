@@ -4,19 +4,11 @@ Site de apresentação do software PiagetManagement, desenvolvido para a Univers
 
 ## Estrutura
 - `index.html`: Página inicial.
-- `about.html`: Informações sobre o projeto.
-- `services.html`: Descrição das funcionalidades.
-- `contact.html`: Formulário de contato.
+- `sobre.html`: Informações sobre o projeto.
+- `serviços.html`: Descrição das funcionalidades.
+- `contato.html`: Formulário de contato.
 - `css/styles.css`: Estilos personalizados.
 - `js/scripts.js`: Funcionalidades JavaScript.
-
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone <https://github.com/SeuUsuario/PiagetManagement-Site.git>
-
-
-
 
 
 
@@ -59,12 +51,10 @@ Com entrega final de um **site no Git-Pages com: Home, Sobre, Serviços, Contato
 **Exemplo de Mitigação:**
 
 > Risco: Falha na integração
-> 
-> 
+
 > **Mitigação**: Testes unitários + ambiente de staging
-> 
 > **Contingência**: Contratar consultor externo
-> 
+ 
 
 ## **3. Análise Custo-Benefício e Impactos**
 
@@ -91,7 +81,7 @@ Com entrega final de um **site no Git-Pages com: Home, Sobre, Serviços, Contato
 
 ### **Passo 4.1 – Configurar Repositório GitHub**
 
-```bash
+
 # 1. Configurar Git
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
@@ -99,7 +89,7 @@ git config --global user.email "seu@email.com"
 # 2. Criar e clonar repositório
 git clone <https://github.com/SeuUsuario/PiagetManagement-Site.git>
 cd PiagetManagement-Site
-```
+
 
 ### **Passo 4.2 – Criar Estrutura do Site**
 
