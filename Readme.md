@@ -1,4 +1,4 @@
-<!-- # PiagetManagement Site
+# PiagetManagement Site
 
 Site de apresentação do software PiagetManagement, desenvolvido para a Universidade Piaget.
 
@@ -158,4 +158,4 @@ Crie um **relatório final** (PDF) com:
 - **GitHub**: [github.com](https://github.com/)
 - **GitHub Pages**: [docs.github.com/en/pages](https://docs.github.com/en/pages)
 - **Bootstrap**: [getbootstrap.com](https://getbootstrap.com/)
-- **Figma (mockups)**: [figma.com](https://figma.com/) -->
+- **Figma (mockups)**: [figma.com](https://figma.com/)
